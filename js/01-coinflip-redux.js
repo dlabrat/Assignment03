@@ -13,3 +13,4 @@ for (let i = 1; i<= iterNum; i++){
     console.log(coinFlip + ' ')
     //console.log(randomNum) checking random number 
 }
+
